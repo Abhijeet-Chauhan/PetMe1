@@ -1,2 +1,4 @@
 # PetMe
-PetMe application repository
+--PetMe Repository.
+--This repository was made as a part of College Project.
+
